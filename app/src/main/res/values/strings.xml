@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android ListView</string>
+    <string name="namelabel">"Name : "</string>
+    <string name="versionlabel">"Version : "</string>
+    <string name="rdlabel">"Date : "</string>
+    <string name="apilabel">"API : "</string>
+    <string name="back">"Previous Page"</string>
+</resources>
